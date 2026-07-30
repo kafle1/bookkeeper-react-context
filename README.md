@@ -1,9 +1,24 @@
-Project Name: Niraj Books (Books Keeper App)
+# Niraj Books (Book Keeper App)
 
-Technology Used: HTML, CSS, JavaScript(Vanilla, React JS), Database (Localstorage)
+Keep track of the books you plan to read. Add a book with its author, and click a book to mark it read (remove it from the list). State is managed with React's Context API and `useReducer`, and persisted to `localStorage`.
 
-Description: This is the place where we can keep records of all the books that we are going to read. This uses contextapi in react.
+## Tech stack
 
-Developer: Niraj Kafle
+React (Context API, useReducer, hooks), localStorage for persistence
 
-Contact: kafleniraj@gmail.com
+## How to run
+
+```bash
+npm install
+npm start
+```
+
+Runs the app at http://localhost:3000.
+
+## Developer
+
+Niraj Kafle — kafleniraj@gmail.com
+
+## License
+
+[MIT](LICENSE)
