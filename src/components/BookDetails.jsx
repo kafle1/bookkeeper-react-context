@@ -7,7 +7,7 @@ function BookDetails({ book }) {
 	return (
 		<li onClick={() => dispatch({ type: 'REMOVE_BOOK', id: book.id })}>
 			<div className="title">{book.title}</div>
-			<div className="authhor">{book.author}</div>
+			<div className="author">{book.author}</div>
 		</li>
 	);
 }
