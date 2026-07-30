@@ -19,7 +19,7 @@ Runs the app at http://localhost:3000.
 
 ## Developer
 
-Niraj Kafle — kafleniraj@gmail.com
+Niraj Kafle - kafleniraj@gmail.com
 
 ## License
 
